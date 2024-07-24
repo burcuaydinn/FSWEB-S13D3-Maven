@@ -43,7 +43,7 @@ public class Wall {
         return width * height;
     }
 
-    //testing
+    //testing for all
     public static void main(String[] args) {
         Wall wall = new Wall(5, 4);
         System.out.println("area= " + wall.getArea());
